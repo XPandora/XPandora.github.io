@@ -5,7 +5,7 @@ layout: default
 
 I am a PhD student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.math.ucla.edu/~cffjiang/) and [**Prof. Demetri Terzopoulos**](https://web.cs.ucla.edu/~dt/). I obtained my B.Eng. degree in Software Engineering from Shanghai Jiao Tong University. Prior to UCLA, I spent a gap year working as a research intern in Bytedance AI Lab. I also did a research internship at the Pennsylvania State University in 2019, advised by [**Prof. Dongwon Lee**](https://pike.psu.edu/dongwon/). My current research interests focus on physics-based simulation and machine learning. 
 
-Here is my [CV](./assets/file/Tianyi%20Xie%20CV.pdf).
+Here is my [CV](./assets/file/Tianyi_Xie_CV_2023_05.pdf).
 
 ## Publications
 ### A Contact Proxy Splitting Method for Lagrangian Solid-Fluid Coupling
