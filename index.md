@@ -8,6 +8,22 @@ I am a PhD student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.m
 Here is my [CV](./assets/file/Tianyi%20Xie%20CV.pdf).
 
 ## Publications
+### A Contact Proxy Splitting Method for Lagrangian Solid-Fluid Coupling
+<font size=2 > <b>Tianyi Xie</b>, Minchen Li, Yin Yang, Chenfanfu Jiang<br>  
+<i>ACM Transactions On Graphics (SIGGRAPH), 2023</i>
+ <a href="https://drive.google.com/uc?export=view&id=1Nv47RP2tNunw3w7-eZy3qNu3InXRPB2q">[paper]</a>
+ <a href="https://www.youtube.com/watch?v=kVByO8_1CT8">[video]</a>
+ <a href="https://drive.google.com/uc?export=view&id=1rkFvKyhBxeRArunni4lKIugY7X14DGbf">[TechDoc]</a>
+  </font>
+
+### Multi-Layer Thick Shells
+<font size=2 > Yunuo Chen, <b>Tianyi Xie</b>, Cem Yuksel, Danny Kaufman, Yin Yang, Chenfanfu Jiang, Minchen Li<br>  
+<i>ACM SIGGRAPH, 2023</i> 
+<a href="https://drive.google.com/uc?export=view&id=17-RZkRb8uCXQqE_VrQmoQyBmwZ-su3KS">[paper]</a>
+ <a href="https://www.youtube.com/watch?v=z1Wc5DvC2Wk&t">[video]</a>
+ <a href="https://drive.google.com/uc?export=view&id=1CXreHy9jzdAzv8CFFZiJwtME_Kq3jASp">[TechDoc]</a>
+ </font>
+
 ### Towards Realistic Visual Dubbing with Heterogeneous Sources
 <font size=2 > <b>Tianyi Xie</b>, Liucheng Liao, Cheng Bi, Benlai Tang, Xiang Yin, Jianfei Yang, Mingjie Wang, Jiali Yao, Zejun Ma<br>  
 <i>ACM International Conference on Multimedia (ACM MM), 2021</i> <a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475318">[paper]</a></font>
