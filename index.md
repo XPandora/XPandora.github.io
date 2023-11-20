@@ -8,8 +8,8 @@ I am a PhD student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.m
 Here is my [CV](./assets/file/Tianyi_Xie_CV_2023_05.pdf).
 
 ## Publications
-### A Contact Proxy Splitting Method for Lagrangian Solid-Fluid Coupling
-<font size=2 > <b>Tianyi Xie<sup>*</sup></b>,Zeshun Zong<sup>*</sup>, Yuxing Qiu<sup>*</sup>, Xuan Li<sup>*</sup>, Yutao Feng, Yin Yang, Chenfanfu Jiang<br>  
+### PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
+<font size=2 > <b>Tianyi Xie<sup>*</sup></b>, Zeshun Zong<sup>*</sup>, Yuxing Qiu<sup>*</sup>, Xuan Li<sup>*</sup> (<i>equal contribution</i>), Yutao Feng, Yin Yang, Chenfanfu Jiang<br> 
 <i>arXiv</i>
  <a href="">[paper]</a>
  <a href="https://xpandora.github.io/PhysGaussian/">[project page]</a>
