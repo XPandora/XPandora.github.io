@@ -9,11 +9,18 @@ Here is my [CV](./assets/file/Tianyi_Xie_CV_2023_05.pdf).
 
 ## Publications
 ### A Contact Proxy Splitting Method for Lagrangian Solid-Fluid Coupling
+<font size=2 > <b>Tianyi Xie<sup>*</sup></b>,Zeshun Zong<sup>*</sup>, Yuxing Qiu<sup>*</sup>, Xuan Li<sup>*</sup>, Yutao Feng, Yin Yang, Chenfanfu Jiang<br>  
+<i>arXiv</i>
+ <a href="">[paper]</a>
+ <a href="https://xpandora.github.io/PhysGaussian/">[project page]</a>
+  </font>
+
+### A Contact Proxy Splitting Method for Lagrangian Solid-Fluid Coupling
 <font size=2 > <b>Tianyi Xie</b>, Minchen Li, Yin Yang, Chenfanfu Jiang<br>  
 <i>ACM Transactions On Graphics (SIGGRAPH), 2023</i>
  <a href="https://drive.google.com/uc?export=view&id=1Nv47RP2tNunw3w7-eZy3qNu3InXRPB2q">[paper]</a>
  <a href="https://www.youtube.com/watch?v=kVByO8_1CT8">[video]</a>
- <a href="https://drive.google.com/uc?export=view&id=1rkFvKyhBxeRArunni4lKIugY7X14DGbf">[TechDoc]</a>
+ <a href="https://drive.google.com/uc?export=view&id=1rkFvKyhBxeRArunni4lKIugY7X14DGbf">[tech doc]</a>
   </font>
 
 ### Multi-Layer Thick Shells
@@ -21,7 +28,7 @@ Here is my [CV](./assets/file/Tianyi_Xie_CV_2023_05.pdf).
 <i>ACM SIGGRAPH, 2023</i> 
 <a href="https://drive.google.com/uc?export=view&id=17-RZkRb8uCXQqE_VrQmoQyBmwZ-su3KS">[paper]</a>
  <a href="https://www.youtube.com/watch?v=z1Wc5DvC2Wk&t">[video]</a>
- <a href="https://drive.google.com/uc?export=view&id=1CXreHy9jzdAzv8CFFZiJwtME_Kq3jASp">[TechDoc]</a>
+ <a href="https://drive.google.com/uc?export=view&id=1CXreHy9jzdAzv8CFFZiJwtME_Kq3jASp">[tech doc]</a>
  </font>
 
 ### Towards Realistic Visual Dubbing with Heterogeneous Sources
@@ -46,4 +53,4 @@ Research Assistant
 Jul, 2019 - Nov, 2019  
 
 ## Miscellaneous
-I love animation and fingerstyle guitar.
+I love Japanese animes and fingerstyle guitar.
