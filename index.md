@@ -5,13 +5,13 @@ layout: default
 
 I am a PhD student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.math.ucla.edu/~cffjiang/) and [**Prof. Demetri Terzopoulos**](https://web.cs.ucla.edu/~dt/). I obtained my B.Eng. degree in Software Engineering from Shanghai Jiao Tong University. Prior to UCLA, I spent a gap year working as a research intern in Bytedance AI Lab. I also did a research internship at the Pennsylvania State University in 2019, advised by [**Prof. Dongwon Lee**](https://pike.psu.edu/dongwon/). My current research interests focus on physics-based simulation and machine learning. 
 
-Here is my [CV](./assets/file/Tianyi_Xie_CV_2023_05.pdf).
+Here is my [CV](./assets/file/Tianyi_Xie_CV(2023_11).pdf).
 
 ## Publications
 ### PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
 <font size=2 > <b>Tianyi Xie<sup>*</sup></b>, Zeshun Zong<sup>*</sup>, Yuxing Qiu<sup>*</sup>, Xuan Li<sup>*</sup> (<i>equal contribution</i>), Yutao Feng, Yin Yang, Chenfanfu Jiang<br> 
 <i>arXiv</i>
- <a href="">[paper]</a>
+ <a href="https://arxiv.org/abs/2311.12198">[preprint]</a>
  <a href="https://xpandora.github.io/PhysGaussian/">[project page]</a>
   </font>
 
@@ -51,6 +51,10 @@ Apr, 2020 - Jul, 2021
 [**The PIKE Group, The Pennsylvania State University**](https://pike.psu.edu/)  
 Research Assistant  
 Jul, 2019 - Nov, 2019  
+
+## Teaching
+**Teaching Assistant, UCLA**  
+PIC20A: Principles of Java Language with Applications, Fall 2023
 
 ## Miscellaneous
 I love Japanese animes and fingerstyle guitar.
