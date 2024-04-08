@@ -8,16 +8,24 @@ I am a PhD student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.m
 Here is my [CV](./assets/file/Tianyi_Xie_CV(2023_11).pdf).
 
 ## Publications
+### VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality
+<font size=2 > Ying Jiang<sup>*</sup>, Chang Yu<sup>*</sup>, <b>Tianyi Xie<sup>*</sup></b>, Xuan Li<sup>*</sup> (<i>equal contribution</i>), Yutao Feng, Huamin Wang, Minchen Li, Henry Lau, Feng Gao, Yin Yang, Chenfanfu Jiang<br> 
+<i>arXiv, 2024</i><br>
+ <a href="https://arxiv.org/abs/2401.16663">[preprint]</a>
+ <a href="https://yingjiang96.github.io/VR-GS/">[project page]</a>
+  </font>
+
 ### PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
 <font size=2 > <b>Tianyi Xie<sup>*</sup></b>, Zeshun Zong<sup>*</sup>, Yuxing Qiu<sup>*</sup>, Xuan Li<sup>*</sup> (<i>equal contribution</i>), Yutao Feng, Yin Yang, Chenfanfu Jiang<br> 
-<i>arXiv</i>
+<i>Conference on Computer Vision and Pattern Recognition (CVPR), 2024</i><br>
+<font color="red">Highlight </font><br>
  <a href="https://arxiv.org/abs/2311.12198">[preprint]</a>
  <a href="https://xpandora.github.io/PhysGaussian/">[project page]</a>
   </font>
 
 ### A Contact Proxy Splitting Method for Lagrangian Solid-Fluid Coupling
 <font size=2 > <b>Tianyi Xie</b>, Minchen Li, Yin Yang, Chenfanfu Jiang<br>  
-<i>ACM Transactions On Graphics (SIGGRAPH), 2023</i>
+<i>ACM Transactions On Graphics (SIGGRAPH), 2023</i><br>
  <a href="https://drive.google.com/uc?export=view&id=1Nv47RP2tNunw3w7-eZy3qNu3InXRPB2q">[paper]</a>
  <a href="https://www.youtube.com/watch?v=kVByO8_1CT8">[video]</a>
  <a href="https://drive.google.com/uc?export=view&id=1rkFvKyhBxeRArunni4lKIugY7X14DGbf">[tech doc]</a>
@@ -25,7 +33,7 @@ Here is my [CV](./assets/file/Tianyi_Xie_CV(2023_11).pdf).
 
 ### Multi-Layer Thick Shells
 <font size=2 > Yunuo Chen, <b>Tianyi Xie</b>, Cem Yuksel, Danny Kaufman, Yin Yang, Chenfanfu Jiang, Minchen Li<br>  
-<i>ACM SIGGRAPH, 2023</i> 
+<i>ACM SIGGRAPH, 2023</i> <br>
 <a href="https://drive.google.com/uc?export=view&id=17-RZkRb8uCXQqE_VrQmoQyBmwZ-su3KS">[paper]</a>
  <a href="https://www.youtube.com/watch?v=z1Wc5DvC2Wk&t">[video]</a>
  <a href="https://drive.google.com/uc?export=view&id=1CXreHy9jzdAzv8CFFZiJwtME_Kq3jASp">[tech doc]</a>
@@ -33,11 +41,13 @@ Here is my [CV](./assets/file/Tianyi_Xie_CV(2023_11).pdf).
 
 ### Towards Realistic Visual Dubbing with Heterogeneous Sources
 <font size=2 > <b>Tianyi Xie</b>, Liucheng Liao, Cheng Bi, Benlai Tang, Xiang Yin, Jianfei Yang, Mingjie Wang, Jiali Yao, Zejun Ma<br>  
-<i>ACM International Conference on Multimedia (ACM MM), 2021</i> <a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475318">[paper]</a></font>
+<i>ACM International Conference on Multimedia (ACM MM), 2021</i><br>
+<a href="https://dl.acm.org/doi/abs/10.1145/3474085.3475318">[paper]</a></font>
 
 ### CHECKER: Detecting Clickbait Thumbnails with Weak Supervision and Co-teaching  
 <font size=2 > <b>Tianyi Xie</b>, Thai Le, Dongwon Lee<br>  
-<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2021</i> <a href="https://dl.acm.org/doi/abs/10.1007/978-3-030-86517-7_26">[paper]</a><br><br></font>
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD), 2021</i><br>
+<a href="https://dl.acm.org/doi/abs/10.1007/978-3-030-86517-7_26">[paper]</a><br><br></font>
 
 ## Experiences
 [**MultiPLES Lab, University of California, Los Angeles**](https://multiples-lab.github.io/)   
@@ -54,7 +64,9 @@ Jul, 2019 - Nov, 2019
 
 ## Teaching
 **Teaching Assistant, UCLA**  
-PIC20A: Principles of Java Language with Applications, Fall 2023
+CS33: Introduction to Computer Organization, Spring 2024 <br>
+**Teaching Assistant, UCLA**  
+PIC20A: Principles of Java Language with Applications, Fall 2023, Winter 2024
 
 ## Miscellaneous
 I love Japanese animes and fingerstyle guitar.
