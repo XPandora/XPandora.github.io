@@ -3,7 +3,7 @@ layout: default
 ---
 ## Biography
 
-I am a PhD student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.math.ucla.edu/~cffjiang/) and [**Prof. Demetri Terzopoulos**](https://web.cs.ucla.edu/~dt/). I obtained my B.Eng. degree in Software Engineering from Shanghai Jiao Tong University. Prior to UCLA, I spent a gap year working as a research intern in Bytedance AI Lab. I also did a research internship at the Pennsylvania State University in 2019, advised by [**Prof. Dongwon Lee**](https://pike.psu.edu/dongwon/). My current research interests focus on physics-based simulation and AIGC. 
+I am a PhD student at UCLA, advised by [**Prof. Chenfanfu Jiang**](https://www.math.ucla.edu/~cffjiang/) and [**Prof. Demetri Terzopoulos**](https://web.cs.ucla.edu/~dt/). I obtained my B.Eng. degree in Software Engineering from Shanghai Jiao Tong University. Prior to UCLA, I spent a gap year working as a research intern in Bytedance AI Lab. I also did a research internship at the Pennsylvania State University in 2019, advised by [**Prof. Dongwon Lee**](https://pike.psu.edu/dongwon/). My current research interests focus on physics-based simulation and AIGC. (Photo credit to [**Ying Jiang**](https://yingjiang96.github.io/).)
 
 Here is my [CV](./assets/file/Tianyi_Xie_CV(2023_11).pdf).
 
