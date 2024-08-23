@@ -1,6 +1,6 @@
 title: Tianyi Xie
 logo: /assets/img/tianyixie3.JPG
-description: CS PhD student at UCLA
+description: CS PhD student at UCLA (Photo credit to <a href="https://yingjiang96.github.io/">Ying Jiang</a>)
 email: tianyixie77@g.ucla.edu
 favicon: true
 color-scheme: light
@@ -18,6 +18,12 @@ platforms:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/tianyi-xie-784230189/
+  - name: Google Scholar
+    icon: <i class="fa-brands fa-google"></i>
+    link: https://scholar.google.com/citations?user=oRt4qcgAAAAJ&hl=en
+  - name: Resume
+    icon: <i class="fa-solid fa-file"></i>
+    link: ./assets/file/Tianyi_Xie_CV_(2024_08).pdf
 
 # navigation:
 #   - name: Readme
