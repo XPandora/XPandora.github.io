@@ -9,7 +9,7 @@ My current research interests focus on physics-based simulation and generative A
 ## Publications
 ### Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
 <font size=2 > Yunuo Chen<sup>*</sup>, <b>Tianyi Xie<sup>*</sup></b>, Zeshun Zong<sup>*</sup>(<i>equal contribution</i>), Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang<br> 
-<i>arXiv, 2024</i><br>
+<i>Neural Information Processing Systems (NeurIPS), 2024</i><br>
  <a href="https://arxiv.org/abs/2405.18515">[preprint]</a>
  <a href="https://yunuoch.github.io/Atlas3D/">[project page]</a>
  <a href="https://github.com/yunuoch/Atlas3D">[code]</a>
