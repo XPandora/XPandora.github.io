@@ -88,6 +88,8 @@ Research Assistant
 Jul, 2019 - Nov, 2019  
 
 ## Teaching
+**Teaching Assistant, UCLA** <br>
+CS174A: Introduction to Computer Graphics, Fall 2024 <br>
 **Teaching Assistant, UCLA**  
 CS33: Introduction to Computer Organization, Spring 2024 <br>
 **Teaching Assistant, UCLA**  
