@@ -7,27 +7,34 @@ I am a PhD student at the [**UCLA AIVC Lab**](https://www.math.ucla.edu/aivc/), 
 
 My current research interests focus on physics-based simulation and generative AI for digital content creation. I am particularly interested in developing models that are physically constrained and controllable for the generation of 2D, 3D, and 4D content.
 ## Publications
+
+### VideoPhy: Evaluating Physical Commonsense In Video Generation
+<font size=2 > Hritik Bansal<sup>^</sup>, Zongyu Lin<sup>^</sup>, <b>Tianyi Xie<sup>*</sup></b>, Zeshun Zong<sup>*</sup>, Michal Yarom<sup>~</sup>, Yonatan Bitton<sup>~</sup>(<i>equal contribution</i>), Chenfanfu Jiang, Yizhou Sun, Kai-Wei Chang, Aditya Grover<br> 
+<i>International Conference on Learning Representations (ICLR), 2025</i><br>
+ <a href="https://arxiv.org/abs/2406.03520">[preprint]</a>
+ <a href="https://videophy.github.io/">[project page]</a>
+ <a href="https://github.com/Hritikbansal/videophy">[code]</a>
+  </font>
+  
+### PhysAnimator: Physics-Guided Generative Cartoon Animation
+<font size=2 > <b>Tianyi Xie</b>, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang<br> 
+<i>arXiv, 2025</i><br>
+ <a href="https://arxiv.org/abs/2501.16550">[preprint]</a>
+</font>
+
+### GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details
+<font size=2 > Boqian Li<sup>*</sup>, Xuan Li<sup>*</sup>, Ying Jiang<sup>*</sup>, (<i>equal contribution</i>), <b>Tianyi Xie</b>, Feng Gao, Huamin Wang, Yin Yang, Chenfanfu Jiang<br> 
+<i>International Conference on 3D Vision (3DV), 2025</i><br>
+ <a href="https://arxiv.org/abs/2405.12420">[preprint]</a>
+ <a href="https://xuan-li.github.io/GarmentDreamerDemo/">[project page]</a>
+  </font>
+
 ### Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
 <font size=2 > Yunuo Chen<sup>*</sup>, <b>Tianyi Xie<sup>*</sup></b>, Zeshun Zong<sup>*</sup>(<i>equal contribution</i>), Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang<br> 
 <i>Neural Information Processing Systems (NeurIPS), 2024</i><br>
  <a href="https://arxiv.org/abs/2405.18515">[preprint]</a>
  <a href="https://yunuoch.github.io/Atlas3D/">[project page]</a>
  <a href="https://github.com/yunuoch/Atlas3D">[code]</a>
-  </font>
-
-### VideoPhy: Evaluating Physical Commonsense In Video Generation
-<font size=2 > Hritik Bansal<sup>^</sup>, Zongyu Lin<sup>^</sup>, <b>Tianyi Xie<sup>*</sup></b>, Zeshun Zong<sup>*</sup>, Michal Yarom<sup>~</sup>, Yonatan Bitton<sup>~</sup>(<i>equal contribution</i>), Chenfanfu Jiang, Yizhou Sun, Kai-Wei Chang, Aditya Grover<br> 
-<i>arXiv, 2024</i><br>
- <a href="https://arxiv.org/abs/2406.03520">[preprint]</a>
- <a href="https://videophy.github.io/">[project page]</a>
- <a href="https://github.com/Hritikbansal/videophy">[code]</a>
-  </font>
-
-### GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details
-<font size=2 > Boqian Li<sup>*</sup>, Xuan Li<sup>*</sup>, Ying Jiang<sup>*</sup>, (<i>equal contribution</i>), <b>Tianyi Xie</b>, Feng Gao, Huamin Wang, Yin Yang, Chenfanfu Jiang<br> 
-<i>arXiv, 2024</i><br>
- <a href="https://arxiv.org/abs/2405.12420">[preprint]</a>
- <a href="https://xuan-li.github.io/GarmentDreamerDemo/">[project page]</a>
   </font>
 
 ### VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality
@@ -77,7 +84,7 @@ My current research interests focus on physics-based simulation and generative A
 ## Experiences
 [**Netflix Research, Los Gatos**](https://research.netflix.com/)   
 Research Intern  
-June, 2024 - Present
+June, 2024 - Nov, 2024
 
 [**Bytedance AI Lab, Shanghai**](https://ailab.bytedance.com/)  
 Research Intern  
@@ -89,7 +96,7 @@ Jul, 2019 - Nov, 2019
 
 ## Teaching
 **Teaching Assistant, UCLA** <br>
-CS174A: Introduction to Computer Graphics, Fall 2024 <br>
+CS174A: Introduction to Computer Graphics, Fall 2024, Winter 2025 <br>
 **Teaching Assistant, UCLA**  
 CS33: Introduction to Computer Organization, Spring 2024 <br>
 **Teaching Assistant, UCLA**  
