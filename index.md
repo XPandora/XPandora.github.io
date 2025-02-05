@@ -15,11 +15,18 @@ My current research interests focus on physics-based simulation and generative A
  <a href="https://videophy.github.io/">[project page]</a>
  <a href="https://github.com/Hritikbansal/videophy">[code]</a>
   </font>
-  
+
 ### PhysAnimator: Physics-Guided Generative Cartoon Animation
 <font size=2 > <b>Tianyi Xie</b>, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang<br> 
 <i>arXiv, 2025</i><br>
  <a href="https://arxiv.org/abs/2501.16550">[preprint]</a>
+</font>
+
+### PhysMotion: Physics-Grounded Dynamics From a Single Image
+<font size=2 > Xiyang Tan<sup>*</sup>, Ying Jiang<sup>*</sup>, Xuan Li<sup>*</sup> (<i>equal contribution</i>), Zeshun Zong, <b>Tianyi Xie</b>, Yin Yang, Chenfanfu Jiang<br> 
+<i>arXiv, 2024</i><br>
+ <a href="https://arxiv.org/abs/2411.17189">[preprint]</a>
+ <a href="https://supertan0204.github.io/physmotion_website/">[project page]</a>
 </font>
 
 ### GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details
