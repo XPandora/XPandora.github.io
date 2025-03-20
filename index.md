@@ -3,7 +3,7 @@ layout: default
 ---
 ## Biography
 
-I am a PhD student at the [**UCLA AIVC Lab**](https://www.math.ucla.edu/aivc/), advised by [**Prof. Chenfanfu Jiang**](https://www.math.ucla.edu/~cffjiang/) and [**Prof. Demetri Terzopoulos**](https://web.cs.ucla.edu/~dt/). I obtained my M.S. degree in Computer Science from UCLA and my B.Eng. degree in Software Engineering from Shanghai Jiao Tong University. Prior to UCLA, I spent a gap year as a research intern in Bytedance AI Lab. 
+I am a PhD candidate at the [**UCLA AIVC Lab**](https://www.math.ucla.edu/aivc/), advised by [**Prof. Chenfanfu Jiang**](https://www.math.ucla.edu/~cffjiang/) and [**Prof. Demetri Terzopoulos**](https://web.cs.ucla.edu/~dt/). I obtained my M.S. degree in Computer Science from UCLA and my B.Eng. degree in Software Engineering from Shanghai Jiao Tong University. Prior to UCLA, I spent a gap year as a research intern in Bytedance AI Lab. 
 
 My current research interests focus on physics-based simulation and generative AI for digital content creation. I am particularly interested in developing models that are physically constrained and controllable for the generation of 2D, 3D, and 4D content.
 ## Publications
