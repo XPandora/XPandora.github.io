@@ -8,18 +8,27 @@ I am a PhD student at the [**UCLA AIVC Lab**](https://www.math.ucla.edu/aivc/), 
 My current research interests focus on physics-based simulation and generative AI for digital content creation. I am particularly interested in developing models that are physically constrained and controllable for the generation of 2D, 3D, and 4D content.
 ## Publications
 
+### PhysAnimator: Physics-Guided Generative Cartoon Animation
+<font size=2 > <b>Tianyi Xie</b>, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang<br> 
+<i>Conference on Computer Vision and Pattern Recognition (CVPR), 2025</i><br>
+  <a href="https://arxiv.org/abs/2501.16550">[preprint]</a>
+  <a href="https://xpandora.github.io/PhysAnimator/">[project page]</a>
+</font>
+
+### GRIP: A General Robotic Incremental Potential Contact Simulation Dataset for Unified Deformable-Rigid Coupled Grasping
+<font size=2 > Siyu Ma<sup>*</sup>, Wenxin Du<sup>*</sup>, Chang Yu<sup>*</sup>, Ying Jiang<sup>*</sup> (<i>equal contribution</i>), Zeshun Zong, <b>Tianyi Xie</b>, Yunuo Chen, Yin Yang, Xuchen Han, Chenfanfu Jiang<br> 
+<i>arXiv, 2025</i><br>
+ <a href="https://arxiv.org/abs/2503.05020">[preprint]</a>
+ <a href="https://bell0o.github.io/GRIP/">[project page]</a>
+ <a href="https://www.youtube.com/watch?v=9GRhzIcqsIA">[video]</a>
+</font>
+
 ### VideoPhy: Evaluating Physical Commonsense In Video Generation
 <font size=2 > Hritik Bansal<sup>^</sup>, Zongyu Lin<sup>^</sup>, <b>Tianyi Xie<sup>*</sup></b>, Zeshun Zong<sup>*</sup>, Michal Yarom<sup>~</sup>, Yonatan Bitton<sup>~</sup>(<i>equal contribution</i>), Chenfanfu Jiang, Yizhou Sun, Kai-Wei Chang, Aditya Grover<br> 
 <i>International Conference on Learning Representations (ICLR), 2025</i><br>
  <a href="https://arxiv.org/abs/2406.03520">[preprint]</a>
  <a href="https://videophy.github.io/">[project page]</a>
  <a href="https://github.com/Hritikbansal/videophy">[code]</a>
-  </font>
-
-### PhysAnimator: Physics-Guided Generative Cartoon Animation
-<font size=2 > <b>Tianyi Xie</b>, Yiwei Zhao, Ying Jiang, Chenfanfu Jiang<br> 
-<i>arXiv, 2025</i><br>
- <a href="https://arxiv.org/abs/2501.16550">[preprint]</a>
 </font>
 
 ### PhysMotion: Physics-Grounded Dynamics From a Single Image
@@ -34,7 +43,7 @@ My current research interests focus on physics-based simulation and generative A
 <i>International Conference on 3D Vision (3DV), 2025</i><br>
  <a href="https://arxiv.org/abs/2405.12420">[preprint]</a>
  <a href="https://xuan-li.github.io/GarmentDreamerDemo/">[project page]</a>
-  </font>
+</font>
 
 ### Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication
 <font size=2 > Yunuo Chen<sup>*</sup>, <b>Tianyi Xie<sup>*</sup></b>, Zeshun Zong<sup>*</sup>(<i>equal contribution</i>), Xuan Li, Feng Gao, Yin Yang, Ying Nian Wu, Chenfanfu Jiang<br> 
@@ -42,7 +51,7 @@ My current research interests focus on physics-based simulation and generative A
  <a href="https://arxiv.org/abs/2405.18515">[preprint]</a>
  <a href="https://yunuoch.github.io/Atlas3D/">[project page]</a>
  <a href="https://github.com/yunuoch/Atlas3D">[code]</a>
-  </font>
+</font>
 
 ### VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality
 <font size=2 > Ying Jiang<sup>*</sup>, Chang Yu<sup>*</sup>, <b>Tianyi Xie<sup>*</sup></b>, Xuan Li<sup>*</sup> (<i>equal contribution</i>), Yutao Feng, Huamin Wang, Minchen Li, Henry Lau, Feng Gao, Yin Yang, Chenfanfu Jiang<br> 
@@ -50,7 +59,7 @@ My current research interests focus on physics-based simulation and generative A
  <a href="https://dl.acm.org/doi/10.1145/3641519.3657448">[paper]</a>
  <a href="https://yingjiang96.github.io/VR-GS/">[project page]</a>
  <a href="https://www.youtube.com/watch?v=fovZlYSMhAI">[video]</a>
-  </font>
+</font>
 
 ### PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics
 <font size=2 > <b>Tianyi Xie<sup>*</sup></b>, Zeshun Zong<sup>*</sup>, Yuxing Qiu<sup>*</sup>, Xuan Li<sup>*</sup> (<i>equal contribution</i>), Yutao Feng, Yin Yang, Chenfanfu Jiang<br> 
@@ -60,7 +69,7 @@ My current research interests focus on physics-based simulation and generative A
  <a href="https://xpandora.github.io/PhysGaussian/">[project page]</a>
  <a href="https://www.youtube.com/watch?v=V96GfcMUH2Q">[video]</a>
  <a href="https://github.com/XPandora/PhysGaussian">[code]</a>
-  </font>
+</font>
 
 ### A Contact Proxy Splitting Method for Lagrangian Solid-Fluid Coupling
 <font size=2 > <b>Tianyi Xie</b>, Minchen Li, Yin Yang, Chenfanfu Jiang<br>  
